@@ -1,0 +1,7 @@
+{
+  "name": "@redbubble/package-a",
+  "version": "6.2.0",
+  "description": "PACKAGE A",
+  "main": "index.js",
+  "license": "MIT"
+}
